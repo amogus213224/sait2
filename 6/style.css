@@ -1,0 +1,36 @@
+@import url('https://fonts.googleapis.com/css2?family=Prompt:ital,wght@1,300&family=Rock+Salt&family=Special+Elite&display=swap');
+
+.foot {
+    text-decoration: none;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+body {
+    margin: 0;
+    background-image: url(image/bg.png);
+    background-size: cover;
+}
+.bg2 {
+    width: 900px;
+    height: 400px;
+    margin-left: 50px;
+}
+.up {
+    width: 100%;
+    max-width: 1200px;
+    margin: 0 auto;
+}
+p {
+    font-family: 'Special Elite', cursive;
+    font-size: 30px;
+    display: flex;
+    align-content: flex-start
+}
+.footer {
+    padding-top: 1px;
+    text-align: center;
+    padding-bottom: 90px;
+    background: #9090e4;
+}
